@@ -47,3 +47,10 @@ console.log(foundChicken);
 // }
 //
 // console.log(total);
+
+var number = 8;
+if (number/2 === 0) {
+  var message =  'even';
+}
+
+console.log(message);
